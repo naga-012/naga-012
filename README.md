@@ -1,0 +1,30 @@
+<h1 align="center">Hi 👋, I'm Nagarjun Myakala</h1> <h3 align="center">Aspiring Data Analyst | Turning data into decisions</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=naga-012&label=Profile%20views&color=0e75b6&style=flat" alt="naga-012" /> </p>
+👨‍💻 About Me
+🎓 Graduated from Bharat Institute of Engineering & Technology (2022) with a background in Information Technology
+📊 Currently focused on building a career as a Data Analyst
+💼 Completed a hands-on internship applying data analysis skills to real-world problems
+🌱 Constantly sharpening my skills in data cleaning, analysis, and visualization
+📍 Based in Hyderabad, India
+💬 Ask me about Python, SQL, or Excel
+🛠️ Tech Stack & Tools
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=default" alt="naga-012's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=default" alt="naga-012's streak stats" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-012&layout=compact&theme=default" alt="Top Languages" /> </p>
+📫 Connect with Me
+<p align="left"> <!-- Add your links below --> <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>## Hi there 👋
+
+<!--
+**naga-012/naga-012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

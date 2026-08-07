@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagarjun Myakala</h1>
+
 <h3 align="center">Aspiring Data Analyst | Turning data into decisions</h3>
 
 <p align="center">
@@ -22,8 +23,7 @@
 </p>
 
 ### 🚀 Featured Projects
-<!-- Replace these with your actual repo links -->
-- **[Project Name](https://github.com/naga-012/repo-name)** — One-line description of the problem you solved and tools used.
+- **[My GitHub Project — Profile README](https://github.com/naga-012/naga-012)** — This repository contains my GitHub profile README showcasing my skills, projects, and GitHub stats.
 - **[Project Name](https://github.com/naga-012/repo-name)** — One-line description of the problem you solved and tools used.
 - **[Project Name](https://github.com/naga-012/repo-name)** — One-line description of the problem you solved and tools used.
 

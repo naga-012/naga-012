@@ -29,8 +29,8 @@
 
 ### 📊 GitHub Stats
 
-![naga-012's GitHub stats](https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=default)
-![naga-012's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=default)
+Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naga-012&theme=react-dark&hide_border=true&bg_color=0D1117" /> <!-- Contribution Snake — requires a GitHub Action (github/actions/actions/blob/main/.github/workflows/snake.yml) to generate snake.svg --> <img src="https://raw.githubusercontent.com/naga-012/naga-012/output/github-contribution-grid-snake.svg" /> </div> <br/>
 
 
 

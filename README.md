@@ -36,7 +36,6 @@ Full-stack hospital appointment booking platform. Patients can search hospitals,
 
 Tech: Node.js Express MongoDB JavaScript
 
-Show Image Show Image
 
 </td> <td width="33%">
 🤖 Multi-AI Productivity Suite
@@ -45,7 +44,6 @@ A productivity web app combining multiple AI-powered tools into a single suite, 
 
 Tech: React Vite Node.js API Integration
 
-Show Image Show Image
 
 </td> <td width="33%">
 📚 Rags
@@ -54,13 +52,11 @@ Project in progress — repository set up, code coming soon.
 
 Tech: TBD
 
-Show Image
 
 </td> </tr> </table> </div> <br/>
 📚 Currently Learning
 <div align="center">
 
-Show Image Show Image Show Image Show Image Show Image
 
 </div> <br/>
 🏆 Achievements

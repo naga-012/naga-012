@@ -13,6 +13,8 @@ Show Image Show Image Show Image Show Image
 🚀 I enjoy turning ideas into deployed, working products — from booking platforms to AI-powered tools
 🌱 Currently deepening my knowledge of AI, System Design, Docker, AWS & DevOps
 ⚡ Fun fact: I like shipping side projects end-to-end — frontend, backend, and deployment
+🔗 LinkedIn: linkedin.com/in/nagarjun-myakala-
+📧 Gmail: myakalanagarjun@gmail.com
 <br clear="right"/>
 🛠️ Tech Stack
 <div align="center">

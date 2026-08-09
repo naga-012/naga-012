@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Graduated from Bharat Institute of Engineering & Technology (2022) with a background in Information Technology
+- 🎓 Graduated from Bharat Institute of Engineering & Technology (2026) with a background in Information Technology
 - 📊 Currently focused on building a career as a Data Analyst
 - 💼 Junior Analyst Intern at Vangrove Tech Pvt Ltd, working on Data Analytics and AI Full Stack Development
 - 🌱 Constantly sharpening my skills in data cleaning, analysis, and visualization

@@ -19,7 +19,6 @@
 
 Programming Languages <br/> <img src="https://skillicons.dev/icons?i=python,mysql,js&theme=dark" />
 
-Data Analytics <br/> 
 
 
 
@@ -64,7 +63,6 @@ Tech: TBD
 📬 Let's Connect
 <div align="center">
 
-Show Image Show Image Show Image Show Image
 
 </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />
 

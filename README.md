@@ -1,7 +1,10 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nagarjun+Myakala;Full+Stack+Web+Developer;Data+%26+AI+Enthusiast;Building+Clean%2C+Scalable+Web+Apps" alt="Typing SVG" /> <br/> <img src="https://img.shields.io/badge/📍_Location-Hyderabad,_India-58A6FF?style=for-the-badge&labelColor=0D1117" />
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nagar[...]
 
 <br/><br/>
 
+📬 Connect With Me
+<a href="https://linkedin.com/in/naga-012" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div> <br/>
 🧭 About Me
@@ -24,9 +27,9 @@ Programming Languages <br/> <img src="https://skillicons.dev/icons?i=python,mysq
 
 </div> <br/>
 📊 GitHub Analytics
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=tokyonight&hide_border=true&background=0D1117" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </div> <div align="center">
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> <img height="165" src[...]
 🔥 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=naga-012&theme=react-dark&hide_border=true&bg_color=0D1117" /> <!-- Contribution Snake — requires a GitHub Action (github/actions/actions/blob/main/.github/workflows/snake.yml) to generate snake.svg --> <img src="https://raw.githubusercontent.com/naga-012/naga-012/output/github-contribution-grid-snake.svg" /> </div> <br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naga-012&theme=react-dark&hide_border=true&bg_color=0D1117" /> <!-- Contribution Snake — requires a GitHub Action (github[...]
 🚀 Featured Projects
 <div align="center"> <table> <tr> <td width="33%">
 🏥 Health Connect Appointment Hub

@@ -21,11 +21,7 @@ Programming Languages <br/> <img src="https://skillicons.dev/icons?i=python,mysq
 
 Data Analytics <br/> 
 
-Backend Technologies <br/> 
 
-Databases & Caching <br/> 
-
-Tools & Methodologies <br/> 
 
 </div> <br/>
 📊 GitHub Analytics

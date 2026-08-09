@@ -2,7 +2,6 @@
 
 <br/><br/>
 
-Show Image Show Image Show Image Show Image
 
 </div> <br/>
 🧭 About Me
@@ -13,22 +12,20 @@ Show Image Show Image Show Image Show Image
 🚀 I enjoy turning ideas into deployed, working products — from booking platforms to AI-powered tools
 🌱 Currently deepening my knowledge of AI, System Design, Docker, AWS & DevOps
 ⚡ Fun fact: I like shipping side projects end-to-end — frontend, backend, and deployment
-🔗 Show Image
-🐙 Show Image
-📧 Show Image
+
 <br clear="right"/>
 🛠️ Tech Stack
 <div align="center">
 
 Programming Languages <br/> <img src="https://skillicons.dev/icons?i=python,mysql,js&theme=dark" />
 
-Data Analytics <br/> Show Image Show Image Show Image Show Image Show Image Show Image
+Data Analytics <br/> 
 
-Backend Technologies <br/> Show Image Show Image Show Image Show Image
+Backend Technologies <br/> 
 
-Databases & Caching <br/> Show Image Show Image
+Databases & Caching <br/> 
 
-Tools & Methodologies <br/> Show Image Show Image Show Image
+Tools & Methodologies <br/> 
 
 </div> <br/>
 📊 GitHub Analytics

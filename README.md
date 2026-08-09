@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nagarjun Myakala
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nagarjun+Myakala" alt="Typing SVG" /> <br/> <img src="https://img.shields.io/badge/📍_Location-Hyderabad,_India-58A6FF?style=for-the-badge&labelColor=0D1117" />
 
 ### Aspiring Data Analyst | Turning data into decisions
 

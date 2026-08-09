@@ -14,6 +14,7 @@ Show Image Show Image Show Image Show Image
 🌱 Currently deepening my knowledge of AI, System Design, Docker, AWS & DevOps
 ⚡ Fun fact: I like shipping side projects end-to-end — frontend, backend, and deployment
 🔗 LinkedIn: linkedin.com/in/nagarjun-myakala-
+🐙 GitHub: github.com/naga-012
 📧 Gmail: myakalanagarjun@gmail.com
 <br clear="right"/>
 🛠️ Tech Stack

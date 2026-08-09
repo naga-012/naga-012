@@ -52,16 +52,6 @@ Project in progress — repository set up, code coming soon.
 Tech: TBD
 
 
-</td> </tr> </table> </div> <br/>
-📚 Currently Learning
-<div align="center">
-
-
-</div> <br/>
-🏆 Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=naga-012&theme=tokyonight&no-frame=true&row=1&column=6" /> </div> <br/>
-📬 Let's Connect
-<div align="center">
 
 
 </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer" />

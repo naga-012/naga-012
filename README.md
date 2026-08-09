@@ -32,7 +32,7 @@
 ![naga-012's GitHub stats](https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=default)
 ![naga-012's streak stats](https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naga-012&layout=compact&theme=default)
+
 
 ### 📫 Connect with Me
 

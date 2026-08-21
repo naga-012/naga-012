@@ -28,7 +28,7 @@
 - **[Multi-AI Productivity Suite](https://github.com/naga-012/Multi-AI-Productivity-Suite)** — A productivity web app built with React and Vite, combining multiple AI-powered tools into a single suite with a Node.js backend/API layer. Live: [multi-ai-productivity-suite.vercel.app](https://multi-ai-productivity-suite.vercel.app)
 
 ### 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=default" alt="naga-012's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=default" alt="naga-012's streak stats" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-012&layout=compact&theme=default" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=naga-012&show_icons=true&theme=default" alt="naga-012's GitHub stats" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=naga-012&theme=default" alt="naga-012's streak stats" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naga-012&layout=compact&theme=default" /> </p>
 
 
 Contribution Graph

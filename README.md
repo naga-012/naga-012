@@ -9,7 +9,7 @@
 - 💼 Junior Analyst Intern at Vangrove Tech Pvt Ltd, working on Data Analytics and AI Full Stack Development
 - 🌱 Constantly sharpening my skills in data cleaning, analysis, and visualization
 - 📍 Based in Hyderabad, India
-- 💬 Ask me about Python, SQL, or Excel
+- 💬 Ask me about Python, SQL, power BI  or Excel
 
 ### 🛠️ Tech Stack & Tools
 
